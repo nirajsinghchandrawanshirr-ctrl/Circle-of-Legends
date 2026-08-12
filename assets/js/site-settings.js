@@ -19,7 +19,7 @@ function loadSettings() {
   if (raw) return JSON.parse(raw);
   // defaults
   return {
-    githubUsername: 'nirajsinghchandravanshirr-ctrl',
+    githubUsername: 'NirajSinghChandravanshi',
     avatarDataUrl: null,
     dataSaver: false,
     privateSite: false,
